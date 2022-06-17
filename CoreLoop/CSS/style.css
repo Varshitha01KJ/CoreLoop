@@ -1,0 +1,17 @@
+.font{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+.border-left {
+    border-left: 1px solid #0244A6;
+}
+.Horizontal-line{
+    background-color:#0244A6;
+    border-bottom: 1px;  
+}
+.save-btn{
+    background-color: #33AF65;
+}
+.Heading{
+    color: #0244A6;
+}
